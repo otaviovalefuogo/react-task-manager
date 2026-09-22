@@ -1,8 +1,33 @@
-# React + Vite
+#  Task Manager - Gerenciador de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+>  **Status do Projeto:** Em Desenvolvimento 
 
-Currently, two official plugins are available:
+Aplicação web desenvolvida para gerenciamento de tarefas diárias, permitindo ao usuário organizar seus afazeres, marcar tarefas concluídas e acompanhar o progresso de forma simples e intuitiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de desenvolvimento frontend moderno com React, TypeScript e Vite.
+
+---
+
+##  Funcionalidades
+
+- [x] Visualização da lista de tarefas
+- [x] Marcação e identificação visual de tarefas concluídas (texto riscado)
+- [ ] Adição de novas tarefas via formulário *(Em desenvolvimento)*
+- [ ] Remoção de tarefas *(Em desenvolvimento)*
+- [ ] Salvar tarefas no armazenamento local (LocalStorage) *(Em desenvolvimento)*
+
+---
+
+##  Tecnologias Utilizadas
+
+- **[React](https://react.dev/)** - Biblioteca JavaScript para construção de interfaces de usuário
+- **[TypeScript](https://www.typescriptlang.org/)** - Superset JavaScript para tipagem estática
+- **[Vite](https://vitejs.dev/)** - Ferramenta de build rápida para frontend
+- **HTML5 & CSS3** - Estruturação e estilização da interface
+
+---
+
+## Rodar o Projeto Localmente
+ **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/otaviovalefuogo/react-task-manager.git](https://github.com/otaviovalefuogo/react-task-manager.git)
