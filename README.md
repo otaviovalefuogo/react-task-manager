@@ -13,7 +13,7 @@ Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de desenv
 - [x] Visualização da lista de tarefas
 - [x] Marcação e identificação visual de tarefas concluídas (texto riscado)
 - [ ] Adição de novas tarefas via formulário _(Em desenvolvimento)_
-- [x] Remoção de tarefas _(Em desenvolvimento)_
+- [x] Remoção de tarefas
 - [ ] Salvar tarefas no armazenamento local (LocalStorage) _(Em desenvolvimento)_
 
 ---
