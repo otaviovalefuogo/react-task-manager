@@ -1,6 +1,6 @@
-#  Task Manager - Gerenciador de Tarefas
+# Task Manager - Gerenciador de Tarefas
 
->  **Status do Projeto:** Em Desenvolvimento 
+> **Status do Projeto:** Em Desenvolvimento
 
 Aplicação web desenvolvida para gerenciamento de tarefas diárias, permitindo ao usuário organizar seus afazeres, marcar tarefas concluídas e acompanhar o progresso de forma simples e intuitiva.
 
@@ -8,17 +8,17 @@ Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de desenv
 
 ---
 
-##  Funcionalidades
+## Funcionalidades
 
 - [x] Visualização da lista de tarefas
 - [x] Marcação e identificação visual de tarefas concluídas (texto riscado)
-- [ ] Adição de novas tarefas via formulário *(Em desenvolvimento)*
-- [ ] Remoção de tarefas *(Em desenvolvimento)*
-- [ ] Salvar tarefas no armazenamento local (LocalStorage) *(Em desenvolvimento)*
+- [ ] Adição de novas tarefas via formulário _(Em desenvolvimento)_
+- [x] Remoção de tarefas _(Em desenvolvimento)_
+- [ ] Salvar tarefas no armazenamento local (LocalStorage) _(Em desenvolvimento)_
 
 ---
 
-##  Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[React](https://react.dev/)** - Biblioteca JavaScript para construção de interfaces de usuário
 - **[TypeScript](https://www.typescriptlang.org/)** - Superset JavaScript para tipagem estática
@@ -28,6 +28,9 @@ Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de desenv
 ---
 
 ## Rodar o Projeto Localmente
- **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/otaviovalefuogo/react-task-manager.git](https://github.com/otaviovalefuogo/react-task-manager.git)
+
+**Clone o repositório:**
+
+```bash
+git clone [https://github.com/otaviovalefuogo/react-task-manager.git](https://github.com/otaviovalefuogo/react-task-manager.git)
+```
