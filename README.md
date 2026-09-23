@@ -11,8 +11,8 @@ Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de desenv
 ## Funcionalidades
 
 - [x] Visualização da lista de tarefas
-- [x] Marcação e identificação visual de tarefas concluídas (texto riscado)
-- [ ] Adição de novas tarefas via formulário _(Em desenvolvimento)_
+- [x] Marcação e identificação visual de tarefas concluídas
+- [x] Adição de novas tarefas via formulário
 - [x] Remoção de tarefas
 - [ ] Salvar tarefas no armazenamento local (LocalStorage) _(Em desenvolvimento)_
 
